@@ -196,7 +196,7 @@ It includes KPI cards for:
 
 It also includes visualisations for sales by country, monthly sales trend, and sales by product subcategory. A shipping-mode analysis can be included as an additional logistics view if it is not already present.
 
-> Add a dashboard screenshot to this repository before publishing the project. Suggested location: `images/executive-dashboard.png`.
+> Add a dashboard screenshot to this repository before publishing the project. Suggested location: `Dashboard.png`.
 
 ## Incremental Processing Experiment
 
@@ -257,8 +257,8 @@ The exact notebook names and execution order should be aligned with the notebook
 
 Add your name and portfolio links here:
 
-- **LinkedIn:** `YOUR_LINKEDIN_URL`
-- **GitHub:** `YOUR_GITHUB_PROFILE_URL`
+- **LinkedIn:** `(https://www.linkedin.com/in/zingafirminorene/)`
+- **GitHub:** `(https://github.com/ZingaRene)`
 
 ---
 
