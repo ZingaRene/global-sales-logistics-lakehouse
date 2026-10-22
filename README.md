@@ -196,7 +196,7 @@ It includes KPI cards for:
 
 It also includes visualisations for sales by country, monthly sales trend, and sales by product subcategory. A shipping-mode analysis can be included as an additional logistics view if it is not already present.
 
-> Add a dashboard screenshot to this repository before publishing the project. Suggested location: `images/Dashboard.png`.
+> ![Global Sales & Logistics Dashboard](images/Dashboard.png)
 
 ## Incremental Processing Experiment
 
