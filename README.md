@@ -257,8 +257,8 @@ The exact notebook names and execution order should be aligned with the notebook
 
 Add your name and portfolio links here:
 
-- **LinkedIn:** `(https://www.linkedin.com/in/zingafirminorene/)`
-- **GitHub:** `(https://github.com/ZingaRene)`
+- **LinkedIn:** `[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/zingafirminorene/)`
+- **GitHub:** `[YOUR_GITHUB_PROFILE_URL](https://github.com/ZingaRene)`
 
 ---
 
