@@ -33,7 +33,6 @@ flowchart TD
     A[Source CSV files] --> B[Bronze: raw Delta tables]
     B --> C[Silver: cleaned and typed tables]
     C --> D[Gold: dimensions and fact table]
-    D --> E[Databricks AI/BI Dashboard]
     C --> F[Data-quality checks]
     D --> F
 ```
