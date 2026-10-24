@@ -218,13 +218,12 @@ Suggested repository layout:
 ```text
 global-sales-logistics-lakehouse/
 ├── README.md
-├── notebooks/
-│   ├── 01_bronze_ingestion
-│   ├── 02_silver_transformations
-│   ├── 03_gold_model
-│   └── 04_gold_quality_checks
+├── 01_bronze_ingestion
+├── 02_silver_transformations
+├── 03_gold_model
+└── 04_gold_quality_checks
 └── images/
-    └── executive-dashboard.png
+    └── Dashboard.png
 ```
 
 Export the Databricks notebooks into this repository and adjust filenames to match the actual exported files. Do not commit credentials, tokens, private data, or any files that should not be publicly shared.
